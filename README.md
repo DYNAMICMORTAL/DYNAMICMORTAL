@@ -88,7 +88,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![DYNAMICMORTAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DYNAMICMORTAL)]
+  ![DYNAMICMORTAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DYNAMICMORTAL)
 
 
 </details>

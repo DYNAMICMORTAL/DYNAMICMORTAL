@@ -89,8 +89,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
   [![DYNAMICMORTAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DYNAMICMORTAL?bg_color=#280b04)](https://github.com/anuraghazra/github-readme-stats)
 
 

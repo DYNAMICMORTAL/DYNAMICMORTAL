@@ -1,11 +1,10 @@
-### Hi there, I'm Mihir - aka [DYNAMICMORTAL][https://dynamicmortal.github.io/template_portfolio/] 👋
+### Hi there, I'm Mihir - aka [DYNAMICMORTAL][website] 👋
 
 [![Website](https://img.shields.io/badge/DYNAMICMORTAL-UP-blue?style=for-the-badge&logo=appveyor)](https://dynamicmortal.github.io/template_portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SAKKRATE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SAKKRATE)
 
 ## I'm a Student, and Developer !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -13,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dynamicmortal.github.io/template_portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://dynamicmortal.github.io/template_portfolio/]
-[<img align="left" alt="Melorange | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCTRkk4Ly8-5OSHGJ-yK3fLw/]
-[<img align="left" alt="SAKKRATE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/SAKKRATE]
-[<img align="left" alt="MIHIR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/Mihir]
-[<img align="left" alt="marshal_op | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/marshal_op]
+[<img align="left" alt="dynamicmortal.github.io/template_portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Melorange | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SAKKRATE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MIHIR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="marshal_op | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instgram]
 
 <br />
 
@@ -89,18 +88,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![DYNAMICMORTAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DYNAMICMORTAL?bg_color=#280b04)](https://github.com/anuraghazra/github-readme-stats)
+  [![DYNAMICMORTAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DYNAMICMORTAL)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://dynamicmortal.github.io/template_portfolio/
+[twitter]: https://twitter.com/SAKKRATE
+[youtube]: https://www.youtube.com/channel/UCTRkk4Ly8-5OSHGJ-yK3fLw
+[instagram]: https://instagram.com/marshal_op
+[linkedin]: https://linkedin.com/in/mihir

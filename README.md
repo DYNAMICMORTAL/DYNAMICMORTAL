@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Mihir - aka [DYNAMICMORTAL][website] <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h2> Hi there, I'm Mihir - aka DYNAMICMORTAL <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
 
 [![Website](https://img.shields.io/badge/DYNAMICMORTAL-UP-blue?style=for-the-badge&logo=appveyor)](https://dynamicmortal.github.io/template_portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SAKKRATE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SAKKRATE)

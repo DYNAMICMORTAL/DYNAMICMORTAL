@@ -68,7 +68,7 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://github.com/DYNAMICMORTAL/)
 
 ---
 
@@ -90,7 +90,7 @@
 
   ![DYNAMICMORTAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DYNAMICMORTAL)
 
-
+![counter](https://enfozonyng0ocwi.m.pipedream.net)
 </details>
 
 [website]: https://dynamicmortal.github.io/template_portfolio/

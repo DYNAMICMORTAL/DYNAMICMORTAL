@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/DYNAMICMORTAL-UP-blue?style=for-the-badge&logo=appveyor)](https://dynamicmortal.github.io/template_portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SAKKRATE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SAKKRATE)
 
-## I'm a Student, and Developer !!
+## I'm a Student, and Developer !!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators

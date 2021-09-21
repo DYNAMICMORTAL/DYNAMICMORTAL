@@ -5,7 +5,7 @@
         <img src="./banner.png" />
     </a>
 </p>
-<h2> Hi there, I'm Mihir - aka DYNAMICMORTAL <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
+    
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2> About Me
 &nbsp;
 Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄

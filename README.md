@@ -75,27 +75,31 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 ➡️ [more blog posts...](https://github.com/DYNAMICMORTAL/)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![DYNAMICMORTAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DYNAMICMORTAL)
-
+<div align = "center">
+<p align="center">
+    <a href="https://github.com/DYNAMICMORTAL/">
+        <img src="https://github-readme-stats.vercel.app/api?username=DYNAMICMORTAL&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+    </a>
+    <a href="https://github.com/DYNAMICMORTAL/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYNAMICMORTAL&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+    </a>
+    <a href="https://github.com/DYNAMCIMORTAL/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=DYNAMICMORTAL&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    </a>
+        <a href="https://open.spotify.com/in-en/user/2zr5drctg1ccpwfni1i7c41xu/?si=sF056b0TQvy_83g8GEa2mA&utm_source=native-share-menu&dl_branch=1">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
+    </a>
+</p>
+    
 ![counter](https://enfozonyng0ocwi.m.pipedream.net)
-</details>
+![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
+![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512?style=flat-square)
+![vscode](https://dev.discordprofiles.me/badge/vscode/594853883742912512?style=flat-square)
+![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
+
+</div>
+
 
 [website]: https://dynamicmortal.github.io/template_portfolio/
 [twitter]: https://twitter.com/SAKKRATE

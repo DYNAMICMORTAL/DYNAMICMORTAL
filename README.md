@@ -1,8 +1,8 @@
 <div align = "center">
 
 <p align="center">
-    <a href="https://www.xynox.codes/">
-        <img src="./assets/banner.png" />
+    <a href="https://www.github.com/DYNAMICMORTAL">
+        <img src="./banner.png" />
     </a>
 </p>
 </div>

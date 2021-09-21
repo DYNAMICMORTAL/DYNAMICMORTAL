@@ -1,3 +1,11 @@
+<div align = "center">
+
+<p align="center">
+    <a href="https://www.xynox.codes/">
+        <img src="./assets/banner.png" />
+    </a>
+</p>
+</div>
 <h2> Hi there, I'm Mihir - aka DYNAMICMORTAL <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
 
 [![Website](https://img.shields.io/badge/DYNAMICMORTAL-UP-blue?style=for-the-badge&logo=appveyor)](https://dynamicmortal.github.io/template_portfolio/)

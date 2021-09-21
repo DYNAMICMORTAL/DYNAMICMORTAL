@@ -9,21 +9,19 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me
 &nbsp;
 Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
-</div>
     
 [![Website](https://img.shields.io/badge/DYNAMICMORTAL-UP-blue?style=for-the-badge&logo=appveyor)](https://dynamicmortal.github.io/template_portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SAKKRATE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SAKKRATE)
 
-### Connect with me:
+#### Connect with me:
 
-[<img align="left" alt="dynamicmortal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Melorange | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SAKKRATE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MIHIR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="marshal_op | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="center" alt="dynamicmortal" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="Melorange | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="SAKKRATE | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="MIHIR | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="marshal_op | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-
+    
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -45,7 +43,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 
 <br />
 <br />
-
+</div>
 ---
 
 ### 📺 Latest YouTube Videos

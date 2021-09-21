@@ -5,12 +5,12 @@
         <img src="./banner.png" />
     </a>
 </p>
-<h2> Hi there, I'm Mihir - aka DYNAMICMORTAL <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
-</div>
+
 ## :bust_in_silhouette: About Me
 &nbsp;
-Heyo 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
-
+Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
+</div>
+    
 [![Website](https://img.shields.io/badge/DYNAMICMORTAL-UP-blue?style=for-the-badge&logo=appveyor)](https://dynamicmortal.github.io/template_portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SAKKRATE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SAKKRATE)
 

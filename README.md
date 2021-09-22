@@ -38,11 +38,11 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
     
 ## Languages and Tools
 &nbsp;
-<img align="center" alt="JavaScript" width="35px" src="./javascript.svg" />
-<img align="center" alt="Java" width="35px" src="./java.svg" />
-<img align="center" alt="Git" width="35px" src="./git.svg" />
-<img align="center" alt="Python" width="35px" src="./python.svg" />
-<img align="center" alt="NodeJs" width="35px" src="./node-dot-js.svg" />
+<img align="center" alt="JavaScript" width="45px" src="./javascript.svg" />
+<img align="center" alt="Java" width="45px" src="./java.svg" />
+<img align="center" alt="Git" width="45px" src="./git.svg" />
+<img align="center" alt="Python" width="45px" src="./python.svg" />
+<img align="center" alt="NodeJs" width="45px" src="./node-dot-js.svg" />
 <br />
 <br />
 </div>

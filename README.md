@@ -85,7 +85,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYNAMICMORTAL&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
     </a>
     <a href="https://github.com/DYNAMCIMORTAL/">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYNAMICMORTAL&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYNAMICMORTAL&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats") />
     </a>
         <a href="https://open.spotify.com/in-en/user/2zr5drctg1ccpwfni1i7c41xu/?si=sF056b0TQvy_83g8GEa2mA&utm_source=native-share-menu&dl_branch=1">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=2zr5drctg1ccpwfni1i7c41xu&cover_image=true&theme=novatorem" width="500px"/>

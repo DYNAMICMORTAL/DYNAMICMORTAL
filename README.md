@@ -65,6 +65,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 
 <!-- BLOG-POST-LIST:START -->
 - [Emmet: Saviour of Developers](https://dev.to/dynamicmortal/emmet-saviour-of-developers-3l83)
+- [HOW TO PRACTICE FOR WEB-DEVELOPMENT ?](https://dev.to/dynamicmortal/how-to-practice-for-web-development--56pc)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)

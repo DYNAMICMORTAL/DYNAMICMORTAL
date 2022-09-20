@@ -31,15 +31,6 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 [<img align="center" alt="dynamicmortal" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="Melorange | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
-    
-## Languages and Tools
-&nbsp;
-<img align="center" alt="JavaScript" width="45px" src="./javascript.svg" />
-<img align="center" alt="Java" width="45px" src="./java.svg" />
-<img align="center" alt="Git" width="45px" src="./git.svg" />
-<img align="center" alt="Python" width="45px" src="./python.svg" />
-<img align="center" alt="NodeJs" width="45px" src="./node-dot-js.svg" />
-<br />
 <br />
 </div>
 

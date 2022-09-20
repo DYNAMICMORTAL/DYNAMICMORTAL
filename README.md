@@ -92,13 +92,6 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=2zr5drctg1ccpwfni1i7c41xu&cover_image=true&theme=novatorem" width="500px"/>
     </a>
 </p>
-    
-![counter](https://enfozonyng0ocwi.m.pipedream.net)
-![status](https://dev.discordprofiles.me/badge/status/722859224169709658?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/722859224169709658?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/722859224169709658?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/722859224169709658?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/722859224169709658?style=flat-square)](https://dev.discordprofiles.me/openspotify/722859224169709658?style=flat-square)
 
 </div>
 

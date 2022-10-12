@@ -65,7 +65,10 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 </p>
 <a href="https://www.buymeacoffee.com/mihiramin/"><img src="https://media4.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" width="75"/></a>
 <a href="https://www.linkedin.com/in/mihiramin13/"><img src="https://media.discordapp.net/attachments/1029621845638524978/1029622904155029584/linkedin_main_gif.gif" width="80" style="padding-top:15px"/></a>
+    
+[![@dynamicmortal's Holopin board](https://holopin.me/dynamicmortal)](https://holopin.io/@dynamicmortal)
 </div>
+[![@dynamicmortal's Holopin board](https://holopin.me/dynamicmortal)](https://holopin.io/@dynamicmortal)
 
 [website]: https://dynamicmortal.github.io/template_portfolio/
 [coffee]: https://www.buymeacoffee.com/mihiramin

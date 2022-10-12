@@ -37,6 +37,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Community Day Experiences ](https://medium.com/@mihiramin/cloud-community-day-experiences-a95f472f7fa7)
 - [Emmet: Saviour of Developers](https://dev.to/dynamicmortal/emmet-saviour-of-developers-3l83)
 - [HOW TO PRACTICE FOR WEB-DEVELOPMENT ?](https://dev.to/dynamicmortal/how-to-practice-for-web-development--56pc)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -45,7 +46,8 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://github.com/DYNAMICMORTAL/)
+➡️ [more blog posts...](https://medium.com/@mihiramin/)
+➡️ [Dev.To](https://dev.to/dynamicmortal)
 
 <div align = "center">
 

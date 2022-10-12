@@ -68,7 +68,6 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
     
 [![@dynamicmortal's Holopin board](https://holopin.me/dynamicmortal)](https://holopin.io/@dynamicmortal)
 </div>
-[![@dynamicmortal's Holopin board](https://holopin.me/dynamicmortal)](https://holopin.io/@dynamicmortal)
 
 [website]: https://dynamicmortal.github.io/template_portfolio/
 [coffee]: https://www.buymeacoffee.com/mihiramin

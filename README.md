@@ -63,7 +63,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 </p>
 
 </div>
-<img src="https://media4.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" width="128"/>
+<a href="https://www.buymeacoffee.com/mihiramin/"><img src="https://media4.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" width="128"/></a>
 [![coffee](https://media4.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif)](https://www.buymeacoffee.com/mihiramin)
 
 

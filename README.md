@@ -62,7 +62,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYNAMICMORTAL&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
 </p>
 <a href="https://www.buymeacoffee.com/mihiramin/"><img src="https://media4.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" width="75"/></a>
-<a href="https://www.linkedin.com/in/mihiramin2004/"><img src="buymeacoffee.gif" width="75"/></a>
+<a href="https://www.linkedin.com/in/mihiramin2004/"><img src="./buymeacoffee.gif" width="75"/></a>
 </div>
 
 [website]: https://dynamicmortal.github.io/template_portfolio/

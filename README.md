@@ -28,7 +28,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 
 ## Connect with me
 &nbsp;
-[<img align="center" alt="dynamicmortal" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://linktr.ee/Aminmihir]
+[<img align="center" alt="dynamicmortal" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linktree]
 [<img align="center" alt="Melorange | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
 <br />
@@ -68,6 +68,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 </div>
 
 [website]: https://dynamicmortal.github.io/template_portfolio/
+[linktree]: https://linktr.ee/Aminmihir
 [coffee]: https://www.buymeacoffee.com/mihiramin
 [twitter]: https://twitter.com/SAKKRATE
 [youtube]: https://www.youtube.com/channel/UCTRkk4Ly8-5OSHGJ-yK3fLw

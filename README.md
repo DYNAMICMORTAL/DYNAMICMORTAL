@@ -24,7 +24,7 @@ limitations under the License.
 &nbsp;
 Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
     
-[![Website](https://img.shields.io/badge/DYNAMICMORTAL-UP-blue?style=for-the-badge&logo=appveyor)](https://dynamicmortal.github.io/template_portfolio/)
+[![Website](https://img.shields.io/badge/DYNAMICMORTAL-UP-blue?style=for-the-badge&logo=appveyor)](https://linktr.ee/Aminmihir)
 
 ## Connect with me
 &nbsp;
@@ -40,10 +40,8 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 - [Google Cloud Community Day Experiences ](https://medium.com/@mihiramin/cloud-community-day-experiences-a95f472f7fa7)
 - [Emmet: Saviour of Developers](https://dev.to/dynamicmortal/emmet-saviour-of-developers-3l83)
 - [HOW TO PRACTICE FOR WEB-DEVELOPMENT ?](https://dev.to/dynamicmortal/how-to-practice-for-web-development--56pc)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [HACKTOBERFEST 2022: I'VE CRACKED IT!!!](https://dev.to/dynamicmortal/hacktoberfest-2022-ive-cracked-it-23c5)
+- [OOPs in a nutshell...](https://dev.to/dynamicmortal/oops-in-a-nutshell-c78)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@mihiramin/)

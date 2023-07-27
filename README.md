@@ -25,20 +25,13 @@ limitations under the License.
 Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
     
 [![Website](https://img.shields.io/badge/AMihir-UP-blue?style=for-the-badge&logo=appveyor)](https://linktr.ee/Aminmihir)
-
+</div>
 ---
 ## Connect with me
-- [Website]([https://kavin.me](https://linktr.ee/Aminmihir))
+- [Website](https;//linktr.ee/Aminmihir)
 - [Linkedin](https://linkedin.com/in/mihiramin13)
 - [Email](mailto:mihiramin2004@gmail.com)
 
-## Connect with me
-&nbsp;
-[<img align="center" alt="dynamicmortal" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linktree]
-[<img align="center" alt="Melorange | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<br />
-<br />
-</div>
 
 ### 📕 Latest Blog Posts
 

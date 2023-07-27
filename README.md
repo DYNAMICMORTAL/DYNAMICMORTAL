@@ -105,12 +105,13 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
-## Connect with me
-- [Website](https://linktr.ee/Aminmihir)
-- [Linkedin](https://linkedin.com/in/mihiramin13)
-- [Email](mailto:mihiramin2004@gmail.com)
-    
+<div align="left">
+    ---
+    ## Connect with me
+    - [Website](https://linktr.ee/Aminmihir)
+    - [Linkedin](https://linkedin.com/in/mihiramin13)
+    - [Email](mailto:mihiramin2004@gmail.com)
+</div>
 [![@dynamicmortal's Holopin board](https://holopin.me/dynamicmortal)](https://holopin.io/@dynamicmortal)
 </div>
 

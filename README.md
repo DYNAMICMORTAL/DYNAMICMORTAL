@@ -57,7 +57,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 &nbsp;
 <p>
     <a href="https://github.com/DYNAMICMORTAL/">
-        <img src="https://github-readme-stats.vercel.app/api?username=DYNAMICMORTAL&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" height=125/>
+        <img src="https://github-readme-stats.vercel.app/api?username=DYNAMICMORTAL&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" height=128/>
     </a>
     <a href="https://github.com/DYNAMICMORTAL/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYNAMICMORTAL&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />

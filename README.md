@@ -26,6 +26,12 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
     
 [![Website](https://img.shields.io/badge/AMihir-UP-blue?style=for-the-badge&logo=appveyor)](https://linktr.ee/Aminmihir)
 
+---
+## Connect with me
+- [Website]([https://kavin.me](https://linktr.ee/Aminmihir))
+- [Linkedin](https://linkedin.com/in/mihiramin13)
+- [Email](mailto:mihiramin2004@gmail.com)
+
 ## Connect with me
 &nbsp;
 [<img align="center" alt="dynamicmortal" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linktree]

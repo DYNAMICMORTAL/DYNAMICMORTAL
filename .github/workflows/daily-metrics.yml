@@ -1,1 +1,80 @@
+name: daily-metrics
 
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:   
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v3.21
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          user: kavinvalli
+          template: classic
+          base: header, activity, community
+          config_timezone: Asia/Kolkata
+
+  language:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v3.21
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          user: kavinvalli
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Asia/Kolkata
+          config_output: svg
+          filename: language.svg
+
+          # Language plugin
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+
+  achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v3.21
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          user: DYNAMICMORTAL
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Asia/Kolkata
+          config_output: svg
+          filename: achievements.svg
+
+          # Achievement plugin
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact 

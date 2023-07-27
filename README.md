@@ -51,7 +51,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 ➡️ [more blog posts...](https://medium.com/@mihiramin/)
 ➡️ [Dev.To](https://dev.to/dynamicmortal)
 
-<div align = "center">
+<!--<div align = "center">-->
 
 ## 🔖 My Statistics
 &nbsp;

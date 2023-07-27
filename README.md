@@ -65,6 +65,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
     <a href="https://github.com/DYNAMCIMORTAL/">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYNAMICMORTAL&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
 </p>
+</div>
 
 ---
 ## Languages and Tools
@@ -108,7 +109,6 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 
 
 [![@dynamicmortal's Holopin board](https://holopin.me/dynamicmortal)](https://holopin.io/@dynamicmortal)
-</div>
 
 [website]: https://example.com
 [linktree]: https://linktr.ee/Aminmihir

@@ -22,7 +22,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: kavinvalli
+          user: DYNAMICMORTAL
           template: classic
           base: header, activity, community
           config_timezone: Asia/Kolkata
@@ -40,7 +40,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: kavinvalli
+          user: DYNAMICMORTAL
           template: classic
           base: ""
           config_display: large

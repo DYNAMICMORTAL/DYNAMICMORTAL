@@ -65,7 +65,6 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
     <a href="https://github.com/DYNAMCIMORTAL/">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYNAMICMORTAL&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
 </p>
-<a href="https://www.buymeacoffee.com/mihiramin/"><img src="https://media4.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" width="75"/></a>
 
 ---
 ## Languages and Tools
@@ -109,10 +108,10 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 [![@dynamicmortal's Holopin board](https://holopin.me/dynamicmortal)](https://holopin.io/@dynamicmortal)
 </div>
 
-[website]: https://dynamicmortal.github.io/template_portfolio/
+[website]: https://example.com
 [linktree]: https://linktr.ee/Aminmihir
 [coffee]: https://www.buymeacoffee.com/mihiramin
-[twitter]: https://twitter.com/SAKKRATE
+[twitter]: https://twitter.com/MihirVAmin
 [youtube]: https://www.youtube.com/channel/UCTRkk4Ly8-5OSHGJ-yK3fLw
-[instagram]: https://instagram.com/marshal_op
+[instagram]: https://instagram.com/is_thatmihir
 [linkedin]: https://linkedin.com/in/mihiramin13

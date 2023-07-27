@@ -110,12 +110,6 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 [![@dynamicmortal's Holopin board](https://holopin.me/dynamicmortal)](https://holopin.io/@dynamicmortal)
 </div>
 
----
-## Connect with me
-- [Website](https://linktr.ee/Aminmihir)
-- [Linkedin](https://linkedin.com/in/mihiramin13)
-- [Email](mailto:mihiramin2004@gmail.com)
-
 [website]: https://example.com
 [linktree]: https://linktr.ee/Aminmihir
 [coffee]: https://www.buymeacoffee.com/mihiramin

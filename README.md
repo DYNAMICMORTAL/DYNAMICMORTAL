@@ -24,7 +24,7 @@ limitations under the License.
 &nbsp;
 Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
     
-[![Website](https://img.shields.io/badge/AMihir-UP-blue?style=for-the-badge&logo=appveyor)](https://linktr.ee/Aminmihir)
+<!--[![Website](https://img.shields.io/badge/AMihir-UP-blue?style=for-the-badge&logo=appveyor)](https://linktr.ee/Aminmihir)-->
 </div>
 
 ---

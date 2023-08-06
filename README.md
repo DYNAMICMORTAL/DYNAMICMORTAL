@@ -36,7 +36,7 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 <br />
 <br />
 
-![Metrics](https://raw.githubusercontent.com/DYNAMICMORTAL/DYNAMICMORTAL/github_metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/DYNAMICMORTAL/DYNAMICMORTAL/github-metrics/github-metrics.svg)
 
 ### 📕 Latest Blog Posts
 

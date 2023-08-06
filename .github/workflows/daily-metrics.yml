@@ -15,9 +15,9 @@ jobs:
       - uses: lowlighter/metrics@v3.21
         with:
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.MetricUpdateToken }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.MetricToken }}
           committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
 
@@ -33,9 +33,9 @@ jobs:
       - uses: lowlighter/metrics@v3.21
         with:
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.MetricUpdateToken }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.MetricToken }}
           committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
 
@@ -58,9 +58,9 @@ jobs:
       - uses: lowlighter/metrics@v3.21
         with:
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.MetricUpdateToken }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.MetricToken }}
           committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
 

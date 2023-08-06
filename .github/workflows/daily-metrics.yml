@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICUPDATETOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.METRICTOKEN }}
-          committer_branch: main
+          committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
 
           # Options
@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.METRICUPDATETOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.METRICTOKEN }}
-          committer_branch: main
+          committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
 
           # Options

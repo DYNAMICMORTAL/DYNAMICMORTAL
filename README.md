@@ -27,7 +27,9 @@ Heyo 👋 myself Mihir - aka DYNAMICMORTAL from India. I am a student and softwa
 <!--[![Website](https://img.shields.io/badge/AMihir-UP-blue?style=for-the-badge&logo=appveyor)](https://linktr.ee/Aminmihir)-->
 </div>
 
+
 ---
+[![wakatime](https://wakatime.com/badge/user/2a4b9b2a-99a5-418e-97fd-71cb4be30ab5.svg)](https://wakatime.com/@2a4b9b2a-99a5-418e-97fd-71cb4be30ab5)
 ## Connect with me
 - [Website](https://linktr.ee/Aminmihir)
 - [Linkedin](https://linkedin.com/in/mihiramin13)
